@@ -1,0 +1,38 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "AINSrgluQpJh2l1moNZWO"
+uri = "file://artifacts/sangam-kirana/public/hero-bg.png"
+type = "image"
+title = "hero background image"
+
+[[generated]]
+id = "vj890ZCYMb0QkbG8z66YQ"
+uri = "file://artifacts/sangam-kirana/public/category-grains.png"
+type = "image"
+title = "grains category"
+
+[[generated]]
+id = "WSownInSnpvP5mqYm-ikS"
+uri = "file://artifacts/sangam-kirana/public/category-spices.png"
+type = "image"
+title = "spices category"
+
+[[generated]]
+id = "ioV82FerYsJy1fkmRVMVZ"
+uri = "file://artifacts/sangam-kirana/public/category-snacks.png"
+type = "image"
+title = "snacks category"
+
+[[generated]]
+id = "uf4AyoauqrZC4so0J99aP"
+uri = "file://artifacts/sangam-kirana/public/category-dairy.png"
+type = "image"
+title = "dairy category"
+
+[[generated]]
+id = "csmLSkBhLDt__153YIhAu"
+uri = "file://artifacts/sangam-kirana/public/category-household.png"
+type = "image"
+title = "household category"
